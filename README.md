@@ -1,2 +1,2 @@
 # Veridic_Atlanta
-This project belongs to Atlanta only
+This project belongs to Atlanta only 
